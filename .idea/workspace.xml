@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="07238c56-8f35-416e-a618-d6ece18a9408" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/project1.py" beforeDir="false" />
-    </list>
+    <list default="true" id="07238c56-8f35-416e-a618-d6ece18a9408" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +44,10 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/israelelijahalmarales/Documents/GitHub/shalom-credit-union",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -65,6 +70,7 @@
       <workItem from="1784774731417" duration="55000" />
       <workItem from="1784774812729" duration="2000" />
       <workItem from="1784776568544" duration="23000" />
+      <workItem from="1784777319453" duration="369000" />
     </task>
     <servers />
   </component>
